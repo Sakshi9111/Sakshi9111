@@ -77,11 +77,3 @@
 
 ---
 
-<h2 > Contact Me: </h2>
-
-If you have any questions, comments, or would simply like to get in touch, I would be delighted to hear from you. Please feel free to use any of the contact methods below:
-
-<p>
-  <a href="mailto:sakshi.ch496@gmail.com" alt="Mail"><img height='50' src="./assets/mail.png"></a>
-
-</p>
