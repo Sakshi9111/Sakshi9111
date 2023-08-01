@@ -29,11 +29,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <br>Python
     </td>
-    <td align="center"  width="96"height="40" >
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <br>Python
-    </td>
-    </td>
     <td align="center" width="96" height="40">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <br>MySQL
