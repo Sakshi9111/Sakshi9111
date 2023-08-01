@@ -21,10 +21,6 @@
 
 <table>
 <tr>
-    <td align="center"  width="96" height="40">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <br>JavaScript
-    </td>
     <td align="center"  width="96"height="40" >
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <br>Python
