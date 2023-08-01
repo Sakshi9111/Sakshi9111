@@ -24,7 +24,7 @@
     </td>
     <td align="center" width="96" height="40">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
-    <br>mongoDB
+    <br>AWS
     </td>
     </td>
     
