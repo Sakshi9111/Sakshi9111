@@ -23,7 +23,7 @@
 <tr>
     </td>
     <td align="center" width="96" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <br>AWS
     </td>
     </td>
