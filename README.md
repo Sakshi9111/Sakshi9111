@@ -34,8 +34,8 @@
     <br>MySQL
     </td>
     <td align="center" width="96" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <br>mongoDB
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <br>Django
     </td>
     </td>
     <td align="center"  width="96" height="40">
