@@ -1,4 +1,4 @@
-![Header](./assets/github-header.svg)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Diving+into+DevOps+and+AWS+Cloud;&font=Fira%20Code&center=true&width=440&height=45&color=556ED2&vCenter=true&size=22)](https://git.io/typing-svg)
 
@@ -21,6 +21,17 @@
 
 <table>
 <tr>
+    </td>
+    <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
+    <br>mongoDB
+    </td>
+    </td>
+    
+     <td align="center"  width="96"height="40" >
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <br>Python
+    </td>
     <td align="center"  width="96"height="40" >
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <br>Python
