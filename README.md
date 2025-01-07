@@ -9,7 +9,7 @@
 <li> 📌 Location : Kathmandu, Nepal</li>
 <li> 📢 Langauges: English, Nepali, Maithali
 
-<li> 🧑‍💻 Currently, I am working as a DevOps Engineer at Adex International, where I am responsible for implementing and maintaining the organization’s cloud infrastructure. As a DevOps Engineer, I bring in-depth knowledge and expertise in cloud computing technologies to help the organization achieve its goals. I am passionate about technology and enjoy exploring new ideas to improve efficiency and effectiveness in the workplace. </li>
+<li> 🧑‍💻 Currently, I am working as a DevOps Engineer at CloudtechService, where I am responsible for implementing and maintaining the organization’s cloud infrastructure. As a DevOps Engineer, I bring in-depth knowledge and expertise in cloud computing technologies to help the organization achieve its goals. I am passionate about technology and enjoy exploring new ideas to improve efficiency and effectiveness in the workplace. </li>
 </ul>
 
 --- 
