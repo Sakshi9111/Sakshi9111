@@ -70,17 +70,15 @@
     </td>
     <td align="center" width="96" height="40">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <br>Grafana
-    </td>
+    <br>Vscode
     </td>
     <td align="center" width="96" height="40">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-    <br>Prometheus
-    </td>
+    <br>Grafana
     </td>
     <td align="center" width="96" height="40">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-    <br>VsCode
+    <br>Prometheus
     </td>
 </table>
 
